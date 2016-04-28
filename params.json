@@ -1,6 +1,6 @@
 {
   "name": "David Montaner's teaching materials",
   "tagline": "www.dmontaner.com",
-  "body": "\r\nHere you can find links to some teaching materials I created.\r\n",
+  "body": "\r\nHere you can find links to some teaching materials I created:\r\n\r\n- [Introduction to Genomic Databases and Bioinformatics](https://github.com/dmontaner-teaching/bioinformatics_intro_course) from the Master's Degree in Bioinformatics at University of Valencia.\r\n- [NGS data analysis](https://github.com/dmontaner-teaching/ngs_course) from the Master's Degree in Bioinformatics at University of Valencia.\r\n\r\nFor __NGS__ data analysis You may also want to see [this repo](https://github.com/ngs-course) I share with some colleagues: \r\n[www.ngscourse.org](http://www.ngscourse.org)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
