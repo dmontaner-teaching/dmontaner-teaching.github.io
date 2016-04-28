@@ -1,6 +1,6 @@
 {
   "name": "David Montaner's teaching materials",
-  "tagline": "<http://www.dmontaner.com>",
+  "tagline": "<html><p><a href=\"http://www.dmontaner.com\">www.dmontaner.com</a></p></html>",
   "body": "\r\nHere you can find links to some teaching materials I created.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
